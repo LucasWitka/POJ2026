@@ -1,0 +1,3 @@
+[DANGER] [ALARM] [Policja wezwana.]
+[INFO] [ALARM] [Alarm Policyjny wyłączony.]
+[DANGER] [ALARM] [Policja wezwana.]
